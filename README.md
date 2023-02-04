@@ -8,7 +8,7 @@ February 2nd, 2023- Coded along with two basic projects from Keras' Code [Exampl
 
 February 3rd, 2023- Coded along with a timeseries classification project from Keras' Code [Examples](https://keras.io/examples/). Both today and yesterday have been exploring Tensorflow/Keras. For my Cube project I started doing the Group Theory section of my writeup, as I wrote a group-theoretic cube class that takes a bit to explain. 
   
-February 4th, 2023- I watched MIT's 6.S191 [lecture](https://www.youtube.com/watch?v=QvkQ1B3FBqA) on RNNs and transformers. I also read a [blog](https://towardsdatascience.com/transformer-neural-network-step-by-step-breakdown-of-the-beast-b3e096dc857f) by Towards Data Science on the transformer architecture. Learned the basic ideas behind recurrent neural networks, backpropagation through time, self-attention, and the transformer architecture.
+February 4th, 2023- I watched MIT's 6.S191 [lecture](https://www.youtube.com/watch?v=QvkQ1B3FBqA) on RNNs and transformers. I also read a [blog](https://towardsdatascience.com/transformer-neural-network-step-by-step-breakdown-of-the-beast-b3e096dc857f) by Towards Data Science on the transformer architecture. Learned the basic ideas behind recurrent neural networks, backpropagation through time, self-attention, and the transformer architecture. For my Cube project I added tests (more specifically a ton of print statements...) to figure out why adi.py was not working. Turns out I messed up the get_scrambled_cube function, which really is not at all complicated.
 
 
 
