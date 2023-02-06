@@ -12,6 +12,7 @@ February 4th, 2023- I watched MIT's 6.S191 [lecture](https://www.youtube.com/wat
 
 February 5th, 2023- I coded along with [this](https://www.kaggle.com/code/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru/notebook) Kaggle Notebook, which introduces RNNs, LSTMs, and GRUs. I didn't bother going too deep into the theory behind LSTMs and GRUs, but I just learned enough for a high level understanding/implementation. I also read [this](https://medium.com/deep-math-machine-learning-ai/chapter-10-1-deepnlp-lstm-long-short-term-memory-networks-with-math-21477f8e4235) medium article on the LSTM network. 
 
+February 6th, 2023- I watched MIT's 6S.191 lectures on [CNNs](https://www.youtube.com/watch?v=uapdILWYTzE&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=3) and [Deep RL](youtube.com/watch?v=-WbN61qtTGQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=5). Both were semi-review; the CNN lecture dove a bit deeper than I had previously gone with convolutional neural networks, and the deep reinforcement learning lecture described policy gradient methods, which I had not previously seen in much detail. 
 
 
   
