@@ -14,5 +14,6 @@ February 5th, 2023- I coded along with [this](https://www.kaggle.com/code/thebro
 
 February 6th, 2023- I watched MIT's 6S.191 lectures on [CNNs](https://www.youtube.com/watch?v=uapdILWYTzE&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=3) and [Deep RL](youtube.com/watch?v=-WbN61qtTGQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=5). Both were semi-review; the CNN lecture dove a bit deeper than I had previously gone with convolutional neural networks, and the deep reinforcement learning lecture described policy gradient methods, which I had not previously seen in much detail. For my Cube project I began working on the Monte Carlo Tree Search class. 
 
+February 9th, 2023- Didn't do too much the last few days (sick/lazy). Read a few short articles by [Run:ai](https://www.run.ai/) on GPUs for data parallelism and how to utilize with Keras. For my Cube project I continued working on the MCTS class (also created a fairly simple node class to support the MCTS). 
 
   
