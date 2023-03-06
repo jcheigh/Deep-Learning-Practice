@@ -16,4 +16,6 @@ February 6th, 2023- I watched MIT's 6S.191 lectures on [CNNs](https://www.youtub
 
 February 9th, 2023- Didn't do too much the last few days (sick/lazy). Read a few short articles by [Run:ai](https://www.run.ai/) on GPUs for data parallelism and how to utilize with Keras. For my Cube project I continued working on the MCTS class (also created a fairly simple node class to support the MCTS). 
 
+March 6th, 2023- Haven't written in this in a while... hopefully will start updating this soon. Since my last post I finished my Rubik's Cube project (at least a draft that I don't plan on returning to anytime soon). For now I've been going through different courses at school (a Deep Learning course and a Big Data Analysis course). I'm also beginning to relearn some fundamental topics in Probability (looking at [Harvard's Stat 110](https://projects.iq.harvard.edu/stat110/home) and Probability and Random Processes by Grimmett). I'm also working through [Berkeley's CS 285 Deep Reinforcement Learning course](https://rail.eecs.berkeley.edu/deeprlcourse/).
+
   
